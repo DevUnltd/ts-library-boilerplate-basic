@@ -61,4 +61,4 @@ const libraryInstance = new MyLibrary();
 
 > Made a library using this starter kit? Share it here by [submitting a pull request](https://github.com/hodgef/ts-library-boilerplate-basic/pulls)!
 
-- [simple-keyboard@3.0.0](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard
+- [simple-keyboard@3.0.0](https://github.com/hodgef/simple-keyboard/tree/staging) - Javascript Virtual Keyboard
