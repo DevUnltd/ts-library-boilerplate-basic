@@ -1,5 +1,5 @@
  <div align="center">
- <img align="center" width="180" src="https://i.imgur.com/iHgtvmg.png" />
+ <img align="center" width="230" src="https://i.imgur.com/iHgtvmg.png" />
   <h2>Typescript Library Boilerplate Basic</h2>
   <blockquote>Minimal Library Starter Kit for your Typescript projects</blockquote>
  
