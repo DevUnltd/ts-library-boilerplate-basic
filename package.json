@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "description": "Typescript Minimal Starter Kit for building libraries",
   "main": "build/index.js",
-  "types": "build/index.d.ts",
+  "types": "build/types/index.d.ts",
   "scripts": {
     "start": "webpack serve",
     "build": "webpack && tsc",
