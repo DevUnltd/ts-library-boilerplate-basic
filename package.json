@@ -1,12 +1,13 @@
 {
   "name": "@hodgef/ts-library-boilerplate-basic",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Typescript Minimal Starter Kit for building libraries",
   "main": "build/index.js",
   "types": "build/types/index.d.ts",
   "scripts": {
     "start": "webpack serve --config webpack.config.demo.js",
     "build": "webpack && tsc",
+    "build:demo": "webpack --config webpack.config.demo.js",
     "test": "jest --silent",
     "coverage": "npm run test -- --coverage",
     "prepare": "npm run build",
