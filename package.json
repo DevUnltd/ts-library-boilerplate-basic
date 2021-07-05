@@ -1,6 +1,6 @@
 {
   "name": "@hodgef/ts-library-boilerplate-basic",
-  "version": "1.0.128",
+  "version": "1.0.129",
   "description": "Typescript Minimal Starter Kit for building libraries",
   "main": "build/index.js",
   "types": "build/types/index.d.ts",
