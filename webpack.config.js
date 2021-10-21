@@ -48,13 +48,6 @@ module.exports = {
       })
     ],
   },
-  devServer: {
-    open: true,
-    hot: true,
-    host: "localhost",
-    static: path.join(__dirname, 'demo'),
-    port: 9000
-  },
   module: {
     rules: [
       {
@@ -70,10 +63,6 @@ module.exports = {
           MiniCssExtractPlugin.loader,
           { loader: "css-loader", options: { sourceMap: true } },
         ],
-      },
-      {
-        test: /\.(png|jpe?g|gif|svg|eot|ttf|woff|woff2)$/,
-        use: ['url-loader'],
       }
     ]
   },
