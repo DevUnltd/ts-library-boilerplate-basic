@@ -65,3 +65,4 @@ const libraryInstance = new MyLibrary();
 - [simple-keyboard](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard
 - [react-simple-keyboard](https://github.com/hodgef/react-simple-keyboard) - React Virtual Keyboard
 - [simple-keyboard-layouts](https://github.com/hodgef/simple-keyboard-layouts) - Keyboard layouts for simple-keyboard
+- [atlas-monaco](https://github.com/datdao/atlas-monaco) - AtlasHCL for monaco editor
