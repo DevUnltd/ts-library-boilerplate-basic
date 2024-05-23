@@ -1,6 +1,6 @@
 /*!
  * 
- *   @hodgef/ts-library-boilerplate-basic v1.1.287
+ *   @hodgef/ts-library-boilerplate-basic v1.1.288
  *   https://github.com/hodgef/ts-library-boilerplate-basic
  *
  *   Copyright (c) Francisco Hodge (https://github.com/hodgef) and project contributors.
